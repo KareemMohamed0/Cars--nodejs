@@ -1,7 +1,7 @@
 var Sequalize = require('sequelize');
 var connection = new Sequalize(
-    'sql2225154', 'sql2225154', 'rI1%lD4*', {
-        host: 'sql2.freemysqlhosting.net',
+    'db1b6042c64eed45ec8078a8a401717af4', 'goerbslorhvlnumn', 'He4E3SX3vygZjhXenMUnBeehhWocknwvzzwzBHHCSqtMLJyHAVo2cqcDaUxfCVQh', {
+        host: '1b6042c6-4eed-45ec-8078-a8a401717af4.mysql.sequelizer.com',
         dialect: 'mysql',
         operatorsAliases: false,
         port: 3306,
